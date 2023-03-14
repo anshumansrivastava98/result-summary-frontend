@@ -22,7 +22,7 @@ Users should be able to:
 - Desktop View
 ![](./assets/images/desktop-view.png)
 
-- Mobile View
+- Mobile View  
 ![](./assets/images/mobile-view.png)
 
 ### Links
