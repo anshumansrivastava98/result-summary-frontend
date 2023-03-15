@@ -19,16 +19,17 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+
 - Desktop View
-![](./assets/images/desktop-view.png)
+  ![](./assets/images/desktop-view.png)
 
 - Mobile View  
-![](./assets/images/mobile-view.png)
+  ![](./assets/images/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/anshumansrivastava98/result-summary-frontend)
+- Live Site URL: [Live site URL](https://anshumansrivastava98.github.io/result-summary-frontend/)
 
 ### Built with
 
